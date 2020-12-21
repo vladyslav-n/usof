@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/usof/static/css/main.f097418c.chunk.css",
+    "main.js": "/usof/static/js/main.395e4a88.chunk.js",
+    "main.js.map": "/usof/static/js/main.395e4a88.chunk.js.map",
+    "runtime-main.js": "/usof/static/js/runtime-main.1bcfb7fe.js",
+    "runtime-main.js.map": "/usof/static/js/runtime-main.1bcfb7fe.js.map",
+    "static/js/2.3e6c9980.chunk.js": "/usof/static/js/2.3e6c9980.chunk.js",
+    "static/js/2.3e6c9980.chunk.js.map": "/usof/static/js/2.3e6c9980.chunk.js.map",
+    "index.html": "/usof/index.html",
+    "precache-manifest.626aa57d7b4d88f27459adab2c30e647.js": "/usof/precache-manifest.626aa57d7b4d88f27459adab2c30e647.js",
+    "service-worker.js": "/usof/service-worker.js",
+    "static/css/main.f097418c.chunk.css.map": "/usof/static/css/main.f097418c.chunk.css.map",
+    "static/js/2.3e6c9980.chunk.js.LICENSE.txt": "/usof/static/js/2.3e6c9980.chunk.js.LICENSE.txt",
+    "static/media/logo-stackoverflow.svg": "/usof/static/media/logo-stackoverflow.a613aa26.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bcfb7fe.js",
+    "static/js/2.3e6c9980.chunk.js",
+    "static/css/main.f097418c.chunk.css",
+    "static/js/main.395e4a88.chunk.js"
+  ]
+}
